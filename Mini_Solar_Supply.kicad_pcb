@@ -80,7 +80,7 @@
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes yes)
 			(usegerberadvancedattributes yes)
 			(creategerberjobfile yes)
@@ -111,9 +111,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "SolarSupply_Gerbers/")
 		)
 	)
 	(net 0 "")
@@ -980,6 +980,17 @@
 			(uuid "e2f15356-50e1-4ee2-b458-d1b8dd3e04cc")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/jesti/Downloads/SS14.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -3465,6 +3476,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "C:/Users/jesti/Downloads/ul_ASPI-0630LR-100M-T15 (1)/IND_ASPI-0630LR_ABR.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -4626,6 +4648,17 @@
 			(uuid "c2ba39a6-ea76-4b91-a4b3-5f778bb9cd03")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/jesti/Downloads/ul_AP3015AKTR-G1 (1)/SOT23-5_1P55X2P9_DIO.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "SS14:DIOM4325X250N"
 		(layer "F.Cu")
@@ -5018,6 +5051,17 @@
 			(uuid "9f425617-3734-4a3a-84a2-351cea88f20b")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/jesti/Downloads/SS14.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_1206_3216Metric"
 		(layer "F.Cu")

@@ -1,0 +1,35 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.6*%
+%TF.CreationDate,2025-12-11T09:20:51-05:00*%
+%TF.ProjectId,Mini_Solar_Supply,4d696e69-5f53-46f6-9c61-725f53757070,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.6) date 2025-12-11 09:20:51*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.700000X1.700000*%
+%ADD11C,1.700000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J2*%
+X127337200Y-132745400D03*
+D11*
+X127337200Y-130205400D03*
+%TD*%
+D10*
+%TO.C,J4*%
+X127346400Y-125684200D03*
+D11*
+X127346400Y-123144200D03*
+%TD*%
+D10*
+%TO.C,J1*%
+X157540000Y-128214200D03*
+D11*
+X157540000Y-130754200D03*
+%TD*%
+M02*
