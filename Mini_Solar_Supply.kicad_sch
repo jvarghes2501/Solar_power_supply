@@ -19,7 +19,7 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
+			(property "Reference" "U1"
 				(at 20.32 10.16 0)
 				(effects
 					(font
@@ -211,7 +211,9 @@
 						)
 					)
 				)
-				(pin power_out line
+			)
+			(symbol "AP3015AKTR-G1_1_1"
+				(pin passive line
 					(at 40.64 -6.35 180)
 					(length 7.62)
 					(name "GND"
